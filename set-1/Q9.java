@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class Q9 {
     public static void main(String[] args){
-		Scanner helper = new Scanner(System.in);
+		Scanner scan = new Scanner(System.in);
 		System.out.print("enter the number: ");
-		int n = helper.nextInt();
+		int n = scan.nextInt();
 
 		int sum = (n * (n + 1)) / 2;
 
