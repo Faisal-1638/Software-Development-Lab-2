@@ -24,6 +24,11 @@ public class Q6 {
 			}
 		}
 
+		for(int i = 0; i < arr.length; i++)
+		{
+            System.out.print(arr[i] + " ");
+		}
+		 System.out.println();
 		System.out.println(found ? "element 4 found in the array" : "element not found");
 	}
 }
