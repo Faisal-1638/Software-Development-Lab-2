@@ -1,19 +1,115 @@
-This collection contains three sets of Java programming problems, organized by difficulty to help learners progress systematically:
+This repository contains a collection of Java practice problems designed for beginners to intermediate learners. It is especially helpful for Mid Lab exam preparation.
 
-Set-1 (Beginner):
-Focuses on the fundamentals of Java programming.
-Covers basic syntax, variables, loops, conditionals, and simple exercises.
-Ideal for beginners who are just starting to learn Java and want to build a solid foundation.
+Problem Sets Overview
 
-Set-2 (Intermediate):
-Designed for learners with basic Java knowledge.
-Includes more complex problems involving arrays, functions, classes, and object-oriented concepts.
-Helps improve problem-solving skills and deepen understanding of Java programming.
+SET 1 — Beginner
 
-Set-3 (Advanced):
-For advanced learners aiming for mastery in Java.
-Contains challenging problems involving algorithms, data structures, file handling, and advanced OOP concepts.
-Prepares learners for competitive programming, coding interviews, and real-world Java projects.
+Basic programming concepts using input/output, loops, and conditionals.
 
-Progression Tip:
-Start with Set-1 to strengthen your fundamentals, then move on to Set-2 and Set-3 for more challenging exercises. This structured approach ensures steady improvement in Java skills.
+Print "Hello, World!"
+
+Greet user by name
+
+Check even or odd number
+
+Find maximum of 3 numbers
+
+Simple calculator (if-else / switch)
+
+Print numbers from 1 to N
+
+Multiplication table
+
+Factorial of a number
+
+Sum from 1 to N
+
+
+SET 2 — Intermediate
+
+Focus on arrays and strings.
+
+Store and print array elements
+
+Find largest number in array
+
+Find smallest number in array
+
+Calculate average
+
+Count even and odd numbers
+
+Search element in array
+
+Sort array (ascending)
+
+Check palindrome string
+
+Count vowels and consonants
+
+Convert string case (upper/lower)
+
+
+
+SET 3 — Descriptive Problems
+
+Problem-solving and logic-building questions.
+
+Check if integer B exists such that B is average of A and C
+
+Abbreviate long words (e.g., "localization" → "l10n")
+
+Capitalize first letter of a word
+
+Find unique number among three digits
+
+Check if average of A and B > C
+
+IIUC-TV subscription cost calculation
+
+Assignment completion time check
+
+Check if passed students > 50%
+
+Weekly working hours calculation
+
+Water bottle refill condition
+
+Notebook production from pulp
+
+Candy packet calculation
+
+Contest winning possibility
+
+Market monopoly detection
+
+Temperature agreement problem
+
+
+How to Run
+
+Clone the repository:
+
+Compile a program:
+
+javac FileName.java
+
+Run the program:
+
+java FileName
+
+
+Requirements
+Java JDK 8 or higher
+
+Any IDE (IntelliJ IDEA / Eclipse / VS Code) or terminal
+
+
+Learning Goals
+
+Strengthen core Java fundamentals
+
+Improve problem-solving skills
+
+Prepare for lab exams and coding tests
+
